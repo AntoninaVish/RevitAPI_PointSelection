@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPI_PointSelection.dll"</Assembly>
+		<AddInId>2FC6BE00-AD59-4EE8-B945-FF8ED0B7C903</AddInId>
+		<FullClassName>RevitAPI_PointSelection.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Выбор точки приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>
